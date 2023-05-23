@@ -1,0 +1,7 @@
+## Interface: 90207
+## Author: Woody#6606
+## Title: |cffc41f3bRestarter Notice|r
+## Version: 1.1
+## Notes: Если вы слепой или у вас есть проблемы с головой - вам подойдет аддон написанный за: 4 минуты 27 секунд.
+
+core.lua
